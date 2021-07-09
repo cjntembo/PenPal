@@ -1,0 +1,15 @@
+ul {
+    display: flex;
+    flex-direction: column;
+}
+
+.letters {
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
+#letter {
+    width: 20rem;
+    height: 4rem;
+    padding: 3rem;
+}
